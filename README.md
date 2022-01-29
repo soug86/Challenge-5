@@ -28,13 +28,13 @@ Thus, Pyber has oppurtunities to increase accessibility at Rural cities.
 
 ### **b. Total drivers:**
 
-The summary above clearly shows that Rural cities were services by **significantly less drivers** compared to its Suburban and Urban counterparts. The number of drivers servicing Rural cities were almost **seven times less** *(78 vs 490)* than Suburban cities and over **thirty times less** *(78 vs 2,405)* compared to Urban cities.
+The summary above clearly shows that Rural cities were serviced by **significantly less drivers** compared to its Suburban and Urban counterparts. The number of drivers servicing Rural cities were almost **seven times less** *(78 vs 490)* than Suburban cities and over **thirty times less** *(78 vs 2,405)* compared to Urban cities.
 
 Thus, it is evident that Pyber would want to increase the number of drivers that services Rural cities in order to increase accessibility,
 
 ### **c. Total fares:**
 
-Looking at the Summary table (a) above, the Total fares validate an expected trend when we take the above two results into account. Urban cities, which has the primary share of the number of rides and drivers, accumulated the highest fare of **$39,854** which is double of Suburban cities and over nine times the Rural market.
+Looking at the Summary table (a) above, the Total fares validate an expected trend when we take the above two results into account. Urban cities, which has the primary share of the number of rides and drivers, accumulated the highest fare of **$39,854** which is **double** of Suburban cities and over **nine times** the Rural market.
 
 Although largely along expected lines, this datapoint emphasizes the point that Urban cities remain the core of Pyber's business model. 
 ### **d. Average fare:**
@@ -51,7 +51,7 @@ This data-point also shows the importance of having adequate drivers to increase
 
 Reviewing the Average Fare per Driver, we see that Rural areas pay an average of *$55.49* per driver which is the **highest** and over **340% more** than Urban cities *($55.49 vs $16.57)* which has the lowest fare per driver.  
 
-This data-point suggests that drivers in the Rural population get more than three times per ride compared to Urban population and more than 40% more than their Suburban counterparts. This is inspite of the fact that, as discussed above, Rural population pays more per ride compared to other cities. This suggests that if Pyber is able to expand its number of drivers into Rural areas, it should be able to improve both accessibility and affordability going forward as the current pool of dRural Drivers might not be able to support all of the demand.
+This data-point suggests that drivers in the Rural population get more than **three times** per ride compared to Urban population and **40% more** than their Suburban counterparts. Also, as discussed above, Rural population pays more per ride compared to other cities. This suggests that if Pyber is able to expand its number of drivers into Rural areas, it should be able to improve both accessibility and affordability going forward as the current pool of dRural Drivers might not be able to support all of the demand.
 
 This data-point also suggests that Rural drivers potentially earn much more than their Urban and Suburban counterparts which should help Pyber with recruiting more drivers in Rural cities.
 ### e) Total fare by city type by Date
@@ -78,7 +78,7 @@ Thus Pyber should start recruitment of drivers to serve the Rural population.
 
 ### b. Improve accessibility to maximize potentially higher earning potential in Urban cities:
 
-As the Total fares by city type indicates, Urban cities are Pyber's primary market segment accounting for over 60% of Pyber's total fares. However, despite having over **thirty times** more drivers than rural areas *(2405 vs 78)*, total Fares in Urban areas is only about **nine times** that of the Rural cities. This suggests that the drivers in Urban cities are not as effectively servicing the communities as Rural drivers. One of the reasons could be that most of the drivers are concentrated to service a specific time of the day or certain areas of the city. 
+As the Total fares by city type indicates, Urban cities are Pyber's primary market segment accounting for over 60% of Pyber's total fares. However, despite having over **thirty times** more drivers than rural areas *(2405 vs 78)*, total Fares in Urban areas is only about **nine times** that of the Rural cities *($4,327 vs $39,854)*. This suggests that the drivers in Urban cities are not as effectively servicing the communities as Rural drivers. One of the reasons could be that most of the Urban drivers are active to service in a specific time of the day or certain areas of the city. 
 
 Pyber needs to investigate the cause of the lower returns from Urban drivers and put in strategies to maximize its accessibility and business potential in Urban areas while continuing to lead in terms of affordability.
 
